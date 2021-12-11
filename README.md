@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KaranNotDev
+- 👀 I’m interested in computers
+- 🌱 I’m new to learning pyhton
+- 💞️ Thank you for using my code
+- 📫 You can reach me with this mail: karanalikilic@gmail.com
